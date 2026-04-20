@@ -29,7 +29,7 @@ Working on SLAM (Simultaneous Localization and Mapping) systems for intelligent 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=js&logoColor=white)
+![JS](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 
 ---
