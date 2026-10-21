@@ -2,7 +2,7 @@
 
 **Computer Science & Engineering Student @ Instituto Superior Técnico**
 
-I'm passionate about building intelligent, secure, and distributed systems. My interests span across **Cybersecurity**, **Quantum computing**, **Compilers and Programing Languages Design**, and**Operating and Distributed Systems**.
+I'm passionate about building intelligent, secure, and distributed systems. My interests span across **Cybersecurity**, **Quantum computing**, **Compilers and Programing Languages Design**, and **Operating and Distributed Systems**.
 
 ---
 
